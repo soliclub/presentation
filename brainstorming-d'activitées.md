@@ -1,0 +1,21 @@
+# Brainstorming d'activités proposées par les membres de club informatique le 08/02/2023
+
+- Sensibilisation à la sécurité des données personnelles et l'avie privée
+- Atelier hardware (démontage et remontage d'un ordinateur) 
+- AI
+- Operating systems (Linux)
+- Desgin (UI/UX - adobe XD - Figma - photoshop) 
+- Podcast tech
+- Live streaming / youtube tutorials
+- Short video sur le "veille technologique"
+- Site web pour partager les projets des étudiants
+- Compte twitter pour solicode et le club
+- Chercher des evenements de tech a tangier (meetup - hackathon - conférence)
+- Job dating
+- Compétition de programmation
+- Compétition de robotique
+- Tour dans des entreprises de tech
+- Compétition de cyber sécurité
+- processs de hybérgation d'un site web ( from scratch ) 
+- invitation des experts dans le domaine de tech
+- Film avec des enfants (robotique - coding )
